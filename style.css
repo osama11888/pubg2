@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    height: 8vh;
+    background-color: rgba(19, 178, 189, 0.856);
+}
+.foter{
+    height: 10vh;
+    width: 100%;
+    background-color: rgba(19, 178, 189, 0.856);   
+}
+h1{
+    color:  rgba(19, 178, 189, 0.856);
+}
+.subColor{
+    background-color: rgba(19, 178, 189, 0.856);
+}
+.logo{
+    font-family: sans-serif;
+    font-size: x-large;
+    font-weight:bolder;
+    letter-spacing: 3px;
+    color: rgb(255, 255, 255);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.reg{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    padding-left: 10px;
+    display: flex;
+    text-align: center;
+}
